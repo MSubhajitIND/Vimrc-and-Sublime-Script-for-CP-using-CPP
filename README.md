@@ -2,6 +2,8 @@
 ----------------------------------------
 ###### This is Made For Windows Mechine. Little change is required for Mac and Linux based Mechine.<br />
 ----------------------------------------
+###### Save this file in your Home directory like this "C:\Users\Subhajit Mondal". Inside This directory Paste the "_vimrc" file.
+----------------------------------------
 ## Understand The Code<br />
 <br />**Line 11: cd E:\C++**<br />
 >Here set your default path for Vim files directory.<br />
