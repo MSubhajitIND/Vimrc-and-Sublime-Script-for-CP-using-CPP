@@ -5,7 +5,7 @@ This is My Personal Vimrc and Sublime script file.
 This is Made For Windows Mechine. Change needed for Mac and Linux users.
 
 ##  For VIM Users
-If you want compile c and c++ both then download the **_vimrc file** from the folder named **"For Compile C and C++ Both"**. Otherwise for C++ download the normal **_vimrc file**.
+**Note :** If you want compile c and c++ both then download the **_vimrc file** from the folder named **"For Compile C and C++ Both"**. Otherwise for C++ download the normal **_vimrc file**.
 
 Save **_vimrc file** in your Home directory like this "C:\Users\Subhajit".
 
