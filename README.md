@@ -24,7 +24,7 @@ Save **_vimrc file** in your Home directory like this "C:\Users\Subhajit".
 7. Restart Sublime and write a code and press ctrl+shift+b to run it.
 8. You can change the keybinding from sublime settings. (I press f11 to run my code)
 
-## Code to Change Keybindings in Sublime <br />
+## Code to Change Keybindings in Sublime
 [</br>
 &nbsp;&nbsp;&nbsp;{ "keys": ["f11"], "command": "build", "args": {"select": true} },</br>
 &nbsp;&nbsp;&nbsp;{ "keys": ["ctrl+shift+b"], "command": "toggle_full_screen" },</br>
