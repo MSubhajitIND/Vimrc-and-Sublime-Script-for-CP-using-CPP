@@ -23,7 +23,7 @@ Save **_vimrc file** in your Home directory like this "C:\Users\Subhajit".
 6. Save the "C++ 14.sublime-build" file inside "C:\Users\Subhajit\AppData\Roaming\Sublime Text\Packages\User" path.
 7. Restart Sublime and write a code and press ctrl+shift+b to run it.
 8. You can change the keybinding from sublime settings. (I press f11 to run my code)
-----------------------------------------
+
 ## Code to Change Keybindings in Sublime <br />
 [</br>
 &nbsp;&nbsp;&nbsp;{ "keys": ["f11"], "command": "build", "args": {"select": true} },</br>
